@@ -1,0 +1,7 @@
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\bin\Debug\Student_data.exe.config
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\bin\Debug\Student_data.exe
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\bin\Debug\Student_data.pdb
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\obj\Debug\Student_data.csproj.AssemblyReference.cache
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\obj\Debug\Student_data.csproj.CoreCompileInputs.cache
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\obj\Debug\Student_data.exe
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(sec6)\Student_data\Student_data\obj\Debug\Student_data.pdb
